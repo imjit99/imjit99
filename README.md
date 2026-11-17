@@ -1,11 +1,17 @@
-<img align="left" src="profile.jpeg" width="145" alt="Jitendra Kumar Jena" />
-
-<h1>Hi, I'm Jitendra Kumar Jena 👋</h1>
-
-🚀 **Software Development Engineer (SDE-1)** at **Prileo Technology Pvt. Ltd (UJUR)**  
-💻 Backend-focused Python & Django Engineer building scalable multi-tenant APIs, real-time systems, and containerized production deployments.
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="profile.jpeg" width="145" alt="Jitendra Kumar Jena" />
+    </td>
+    <td valign="middle">
+      <h3>Hi, I'm Jitendra Kumar Jena 👋</h3>
+      <p>
+        🚀 <strong>Software Development Engineer (SDE-1)</strong> at <strong>Prileo Technology Pvt. Ltd (UJUR)</strong><br/>
+        💻 Backend-focused Python & Django Engineer building scalable multi-tenant APIs, real-time systems, and containerized production deployments.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
